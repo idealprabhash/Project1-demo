@@ -1,2 +1,3 @@
 # Project1-demo
-This is my first repository.
+This is my first Git Repository.
+Author-Prabhash
